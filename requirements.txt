@@ -2,3 +2,5 @@ streamlit
 sentence-transformers
 PyPDF2
 scikit-learn
+plotly 
+fpdf2
